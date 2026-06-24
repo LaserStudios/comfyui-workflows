@@ -1,0 +1,14 @@
+# Betriebssystem / OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporäre ComfyUI-Ausgaben / temporary ComfyUI outputs (keep out of repo)
+output/
+temp/
+*.png
+*.jpg
+*.mp4
